@@ -1,6 +1,4 @@
 # React-Native
-React native projects 
-
 Simple front end Authetication Log in screen UI  full responsive with Navigation
 
 **Source code** 
